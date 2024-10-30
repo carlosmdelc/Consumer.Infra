@@ -10,5 +10,9 @@ namespace Consumer.Infra.Models
     {
         public const string Admin = "Admin";
         public const string User = "User";
+        public const string Guest = "Guest";
+
+		public const string Success = "Success";
+        public const string Error = "Error";
     }
 }
